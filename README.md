@@ -1,6 +1,6 @@
 # Numerical-Analysis-Google-Pagerank-Algorithm
 
-This project was done as a part of our Maths Course on Probability and Statistics and Numerical Methods. 
+This project was done as a part of our Maths Course on Probability-Statistics and Numerical Methods. 
 
 # Acknowledgement
 
