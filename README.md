@@ -15,7 +15,7 @@ Some results obtained
 
 Sample Graph of 6 webpages |  Final rank Vector
 :-------------------------:|:-------------------------:
-<img src=https://user-images.githubusercontent.com/68186100/129362583-a1a0200e-d691-4cb1-a61f-d53f0c4695d2.png width="250" height="250"> |<img src=https://user-images.githubusercontent.com/68186100/129362697-43c16c03-d230-4c81-a92a-c103ad9512eb.png width="250" height="250">
+<img src=https://user-images.githubusercontent.com/68186100/129362583-a1a0200e-d691-4cb1-a61f-d53f0c4695d2.png> |<img src=https://user-images.githubusercontent.com/68186100/129362697-43c16c03-d230-4c81-a92a-c103ad9512eb.png >
 
 
 
