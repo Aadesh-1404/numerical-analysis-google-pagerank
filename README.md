@@ -5,7 +5,7 @@ The PageRank algorithm is one of the most common algorithms used by search engin
 
 The model showing page rank of diffrerent web pages
 
-<img src=https://user-images.githubusercontent.com/68186100/129362909-2dd229e0-a1da-42de-bd3e-52f60fc7ee69.png width="500" height="500">
+<img src=https://user-images.githubusercontent.com/68186100/129362909-2dd229e0-a1da-42de-bd3e-52f60fc7ee69.png width="250" height="250">
 
 The rank of the pages is determined by formulating a set of linear equations based on the above mentioned parameters. This linear system results in an **eigen value problem** which can be solved using an **iterative approach**.
 
@@ -15,7 +15,7 @@ Some results obtained
 
 Sample Graph of 6 webpages |  Final rank Vector
 :-------------------------:|:-------------------------:
-<img src=https://user-images.githubusercontent.com/68186100/129362583-a1a0200e-d691-4cb1-a61f-d53f0c4695d2.png width="500" height="500"> |<img src=https://user-images.githubusercontent.com/68186100/129362697-43c16c03-d230-4c81-a92a-c103ad9512eb.png width="500" height="500">
+<img src=https://user-images.githubusercontent.com/68186100/129362583-a1a0200e-d691-4cb1-a61f-d53f0c4695d2.png width="250" height="250"> |<img src=https://user-images.githubusercontent.com/68186100/129362697-43c16c03-d230-4c81-a92a-c103ad9512eb.png width="250" height="250">
 
 
 
@@ -23,11 +23,12 @@ In the end we also determined the **average execution time** and **number of ite
 
 Result of performance analysis.
 
-<img src=https://user-images.githubusercontent.com/68186100/129362229-cb1c1519-3d8f-4522-9b29-61da9a7cb600.png width="500" height="500">
+<img src=https://user-images.githubusercontent.com/68186100/129362229-cb1c1519-3d8f-4522-9b29-61da9a7cb600.png width="250" height="250">
 
 # Conclusions
 
 The time required to rank 100 pages is in the order of 10−4 seconds and execution time is of the order 10<sup>−3</sup>s when the number of pages is of the order 10<sup>3</sup>.
+
 Due to its linear time complexity, the power iteration method can rank millions of web pages in a matter of seconds using the PageRank algorithm, making it highly effective for search engines.
 
 
