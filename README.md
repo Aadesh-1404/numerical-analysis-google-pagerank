@@ -27,7 +27,7 @@ Result of performance analysis.
 
 # Conclusions
 
-The time required to rank 100 pages is in the order of 10−4 seconds and execution time is of the order 10<sup>−3</sup>s when the number of pages is of the order 10<sup>3</sup>.
+The time required to rank 100 pages is in the order of 10<sup>−4</sup> seconds and execution time is of the order 10<sup>−3</sup>s when the number of pages is of the order 10<sup>3</sup>.
 
 Due to its linear time complexity, the power iteration method can rank millions of web pages in a matter of seconds using the PageRank algorithm, making it highly effective for search engines.
 
