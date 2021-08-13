@@ -23,7 +23,7 @@ In the end we also determined the **average execution time** and **number of ite
 
 Result of performance analysis.
 
-<img src=https://user-images.githubusercontent.com/68186100/129362229-cb1c1519-3d8f-4522-9b29-61da9a7cb600.png width="250" height="250">
+<img src=https://user-images.githubusercontent.com/68186100/129362229-cb1c1519-3d8f-4522-9b29-61da9a7cb600.png>
 
 # Conclusions
 
